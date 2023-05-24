@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    background-color: aqua;
+    /* width: 20rem; */
+    justify-content: space-evenly;
+    /* padding: 2rem; */
+    margin-top: 2rem;
+}
+
+.img-1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: xx-small;
+}
+
+.img-2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: xx-small;
+}
+
+.img-3 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: xx-small;
+}
+
+#image1 {
+    height: 100px;
+    width: 5rem;
+}
+
+#image2 {
+    height: 100px;
+    width: 5rem;
+}
+
+#image3 {
+    height: 100px;
+    width: 5rem;
+}
